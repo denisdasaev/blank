@@ -1,0 +1,1 @@
+$(document).ready(function(){var lg=$("input[name=lg]");if(lg.val()=="")lg.focus();else $("input[name=pw]").focus();});

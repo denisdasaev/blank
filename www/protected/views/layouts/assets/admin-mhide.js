@@ -1,0 +1,1 @@
+$(document).ready(function(){var navMainTimer=null;$("#nav-main").mouseleave(function(){navMainTimer=setTimeout(function(){navMainTimer=null;$("#nav-main").fadeOut(500);},1000);});$("#nav-main-area,#nav-main").mouseenter(function(){if(navMainTimer){clearTimeout(navMainTimer);navMainTimer=null;}$("#nav-main").fadeIn(150);});});

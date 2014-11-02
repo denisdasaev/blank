@@ -1,0 +1,5 @@
+.loading{display:inline-block;width:32px;height:32px;background:url('/img/loading.gif') no-repeat;vertical-align:middle;}
+.loading16{display:inline-block;width:16px;height:16px;background:url('/img/loading16.gif') no-repeat;vertical-align:middle;}
+.left{float:left;}
+.right{float:right;}
+.tiny{font-size:10px;}

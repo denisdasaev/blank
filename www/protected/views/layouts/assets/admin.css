@@ -1,0 +1,4 @@
+#nav-main-area{position:fixed;top:0;left:0;right:0;z-index:1020;height:50px;background:transparent;}
+.shift-content{margin-top:30px;}
+.tabs-panel{border:1px solid #ddd;border-top:none;border-radius:0 0 4px 4px;-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;}
+.tabs-panel-top{border-top:1px solid #ddd;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;}
